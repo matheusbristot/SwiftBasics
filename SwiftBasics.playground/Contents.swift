@@ -1,7 +1,7 @@
 //: Playground - noun: a place where people can play
 
 /*
- * Voçe consegue rodar esses exemplos no https://swift.sandbox.bluemix.net/#/repl
+ * Voce consegue rodar esses exemplos no https://swift.sandbox.bluemix.net/#/repl
  * Vale notar que compiladores onlines podem dar algum erro ou warning. Apenas ignore-os.
  */
 
